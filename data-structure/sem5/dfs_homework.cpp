@@ -23,6 +23,11 @@ void dfs(int vertex, const vector<vector<int>>& graph, vector<bool>& visited) {
     }
 }
 
+
+// g++ dfs_homework.cpp -o dfs_homework.exe
+// .\dfs_homework.exe
+
+
 int main() {
     // Графын оройн тоо
     int n = 5;
